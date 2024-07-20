@@ -1,4 +1,6 @@
-# SALES-DASHBOARD
+# SALES-DASHBOARD-AND-CUSTOMER-DASHBOARD
+
+# 1. SALES-DASHBOARD
 
 ## Table of Contents
 - [Purpose](#purpose)
