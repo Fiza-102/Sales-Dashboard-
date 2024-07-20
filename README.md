@@ -45,4 +45,4 @@ Tableau Public, Interactive parameters, ,Adding Filter actions, navigate buttons
  
  
 ## Dashboard
-![Alt text](=https://public.tableau.com/views/SALESDASHBOARD_17214015441040/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![LINK to DASHBOARD](=https://public.tableau.com/views/SALESDASHBOARD_17214015441040/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
