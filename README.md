@@ -1,4 +1,4 @@
-# SALES-DASHBOARD
+# SALES-DASHBOARD-USING-TABLEAU
 
 ## Table of Contents
 - [Purpose](#purpose)
