@@ -45,4 +45,4 @@ Tableau Public, Interactive parameters, ,Adding Filter actions, navigate buttons
  
  
 ## Dashboard
-![Alt text](=C:\Users\91936\Desktop\Tableau_DATASET\Sales Dashboard.png)
+![Alt text](=https://public.tableau.com/views/SALESDASHBOARD_17214015441040/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
