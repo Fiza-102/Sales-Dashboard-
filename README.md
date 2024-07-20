@@ -7,10 +7,14 @@
 - [Prerequisites](#Prerequisites)
 - [Data Filters](#DataFilters)
 - [Dashboard](#Dashboard)
-  
+
+### Making it dynamic and adding buttons to switch from sales dashboard to customer dashboard.
+
 ## Purpose
 To present an overview of sales metrics and trends in order to analyse year-over-year sales performance and understand sales trends.
 Building dashboard to help stakeholders, including salesmanager and executives to analyse sales performance.
+
+
 
 ## Build Data Source
 - Connecting to sales data : orders.csv, customers.csv, location.csv, product.csv.
