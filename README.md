@@ -8,7 +8,7 @@
 - [Data Filters](#DataFilters)
 - [Dashboard](#Dashboard)
 
-### Making it dynamic and adding buttons to switch from sales dashboard to customer dashboard.
+### Making it dynamic and adding buttons to switch from ## SALES DASHBOARD to CUSTOMERS DASHBOARD.
 
 ## Purpose
 To present an overview of sales metrics and trends in order to analyse year-over-year sales performance and understand sales trends.
